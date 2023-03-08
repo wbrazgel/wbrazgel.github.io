@@ -2,14 +2,11 @@
 title: ""
 about:
   id: intro-heading
-  template: solana
+  template: trestles
   links:
     - icon: linkedin 
       text: LinkedIn
       href: https://www.linkedin.com/in/will-brazgel-871690203/
-    - icon: instagram 
-      text: Instagram
-      href: https://instagram.com/wbrazgel
     - icon: github 
       text: GitHub
       href: https://github.com/wbrazgel
@@ -21,9 +18,8 @@ about:
 
 # Will Brazgel
 
-Statistics Major and Varsity Football Player
-
-at Macalester College
+Currently studying to obtain a Statistics degree while playing varsity football at Macalester College.
+With this degree, plans include combining my two greatest passions, sports and math, into my future job.
 
 ## Education
 
