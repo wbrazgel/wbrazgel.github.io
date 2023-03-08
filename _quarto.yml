@@ -9,9 +9,9 @@ website:
     search: true
     left:
       - text: "Home"
-        file: home.qmd
+        file: index.qmd
       - text: "Projects"
-        file: projects.qmd
+        file: about.qmd
   page-footer:
     left: |
       &copy; Will Brazgel, 2023<br>

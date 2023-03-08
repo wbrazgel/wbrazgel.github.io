@@ -19,7 +19,7 @@ about:
   image: images/capstonepic.jpg
 ---
 
-# Will Brazgel 
+# Will Brazgel
 
 Statistics Major and Varsity Football Player
 
@@ -37,9 +37,7 @@ Fellow, Baseball Research \| Minnesota Twins
 
 May 2023 - August 2023
 
-<br>
-
-Resume
+[Resume](FinalTwinsResume.pdf)
 
 <div>
 
