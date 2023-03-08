@@ -1,20 +1,14 @@
-\-\--
+---
 
 title: "Projects"
 
 listing:
-
-  contents: projects
-
-  sort: "title desc"
-
-  type: grid
-
-  categories: true
-
-  sort-ui: true
-
-  filter-ui: true
+  contents: projects
+  sort: "title desc"
+  type: grid
+  categories: true
+  sort-ui: true
+  filter-ui: true
 
 page-layout: full
 
@@ -22,5 +16,5 @@ title-block-banner: true
 
 comments: false
 
-\-\--\
+---
 

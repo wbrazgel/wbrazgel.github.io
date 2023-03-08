@@ -11,7 +11,7 @@ website:
       - text: "Home"
         file: index.qmd
       - text: "Projects"
-        file: about.qmd
+        file: projects.qmd
   page-footer:
     left: |
       &copy; Will Brazgel, 2023<br>
