@@ -1,0 +1,46 @@
+---
+title: ""
+about:
+  id: intro-heading
+  template: solana
+  links:
+    - icon: linkedin 
+      text: LinkedIn
+      href: https://www.linkedin.com/in/will-brazgel-871690203/
+    - icon: instagram 
+      text: Instagram
+      href: https://instagram.com/wbrazgel
+    - icon: github 
+      text: GitHub
+      href: https://github.com/wbrazgel
+    - icon: envelope 
+      text: Email
+      href: mailto:wbrazgel@macalester.edu
+  image: images/capstonepic.jpg
+---
+
+# Will Brazgel 
+
+Statistics Major and Varsity Football Player
+
+at Macalester College
+
+## Education
+
+Macalester College \| St. Paul MN
+
+B.A. in Statistics \| Sept 2020 - May 2024
+
+## Experience
+
+Fellow, Baseball Research \| Minnesota Twins
+
+May 2023 - August 2023
+
+<br>
+
+Resume
+
+<div>
+
+</div>

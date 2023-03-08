@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "wbrazgel.github.io",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "Will Brazgel",
+    "section": "",
+    "text": "Statistics Major and Varsity Football Player\nat Macalester College\n\n\nMacalester College | St. Paul MN\nB.A. in Statistics | Sept 2020 - May 2024\n\n\n\nFellow, Baseball Research | Minnesota Twins\nMay 2023 - August 2023\n\nResume"
+  },
+  {
+    "objectID": "home.html#education",
+    "href": "home.html#education",
+    "title": "Will Brazgel",
+    "section": "Education",
+    "text": "Education\nMacalester College | St. Paul MN \nB.A. in Statistics | Sept 2020 - May 2024"
+  },
+  {
+    "objectID": "home.html#experience",
+    "href": "home.html#experience",
+    "title": "Will Brazgel",
+    "section": "Experience",
+    "text": "Experience\nFellow, Baseball Research | Minnesota Twins \nMay 2023 - August 2023\nResume"
+  }
+]

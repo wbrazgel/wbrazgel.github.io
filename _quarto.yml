@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Will Brazgel"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        file: home.qmd
+      - text: "Projects"
+        file: projects.qmd
+  page-footer:
+    left: |
+      &copy; Will Brazgel, 2023<br>
+      All content licensed under <i class='bi-badge-cc'></i>
+      [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+    right: |
+      Site built with <a href='https://quarto.org/'>Quarto</a>
+
+
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: visual
+
