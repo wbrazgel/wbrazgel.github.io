@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Will Brazgel"
 about:
   id: intro-heading
   template: trestles
@@ -7,34 +7,30 @@ about:
     - icon: linkedin 
       text: LinkedIn
       href: https://www.linkedin.com/in/will-brazgel-871690203/
-    - icon: github 
-      text: GitHub
-      href: https://github.com/wbrazgel
     - icon: envelope 
       text: Email
-      href: mailto:wbrazgel@macalester.edu
+      href: mailto:wbrazgel@gmail.com
+    - icon: file-earmark-text
+      text: Resume
+      href: Brazgel24Resume.pdf
   image: images/capstonepic.jpg
 ---
 
-# Will Brazgel
+## Summary
 
-Currently studying to obtain a Statistics degree while playing varsity football at Macalester College.
-With this degree, plans include combining my two greatest passions, sports and math, into my future job.
+Recent graduate of Macalester College with a Statistics degree and four years of varsity football experience. Future plans include combining my two greatest passions, sports and math, into my future job.
 
 ## Education
 
 Macalester College | St. Paul MN
 
-B.A. in Statistics | Sept 2020 - May 2024
+B.A. in Statistics | Sept 2020 - December 2023
+
+Summa Cum Laude | 3.94 GPA
 
 ## Experience
 
-Fellow, Baseball Research \| Minnesota Twins
+Fellow, Baseball Research | Minnesota Twins
 
 May 2023 - August 2023
 
-[Resume](WebsiteResume.pdf)
-
-<div>
-
-</div>

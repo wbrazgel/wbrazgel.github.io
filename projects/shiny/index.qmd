@@ -1,0 +1,28 @@
+---
+title: "MLB Team Builder App"
+description: "An R/Shiny app created to investigate which baseball statistics are predictive of team success and how the importance of certain statistics change based on position."
+image: shiny.png
+categories:
+  - Baseball
+  - Shiny
+about:
+  template: solana
+  image: shiny.png
+---
+
+## Overview
+
+Learn about new baseball statistics, explore relationships between certain statistics and team success, and construct your own teams with the MLB Team Builder App.
+
+This investigation sought to answer four main questions.
+
+1. Which baseball statistics are important in predicting overall team success? We measure team success as the sum of each player's WAR or WPA.
+
+2. Similarly, which baseball statistics contribute to fantasy team success, measured in Total Fantasy Points?
+
+3. Based on findings from the first two research questions, does there seem to be similar importance of a statistic regardless of if we are interested in real life or fantasy baseball?
+
+4. Lastly, how does variable importance (in regards to predicting and accumulating WAR) change based on position?
+
+[Check out the full app here!](https://wbrazgel.shinyapps.io/MLBTeamBuilderApp/)
+

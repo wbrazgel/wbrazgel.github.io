@@ -1,0 +1,17 @@
+---
+title: "US College Cost-Benefit Analysis"
+description: "An analysis of colleges based on tuition, admission rate, and post-graduation earnings using least squares and logistic regression, LASSO, splines, decision trees, clustering, and PCA in R."
+image: college.png
+categories:
+  - Machine Learning
+  - Presentation
+about:
+  template: solana
+  image: college.png
+---
+
+## Overview
+
+This project was a summation of everything I learned in my college Statistical Machine Learning class. With the help of [Logan Pampel](https://www.linkedin.com/in/logan-pampel-8a4546241/), we compiled our work into a final presentation, which is attached below.
+
+[Check out our presentation here!](STATPresentation_Brazgel_Pampel.mp4)

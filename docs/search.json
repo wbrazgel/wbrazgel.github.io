@@ -11,13 +11,146 @@
     "href": "index.html",
     "title": "Will Brazgel",
     "section": "",
-    "text": "Currently studying to obtain a Statistics degree while playing varsity football at Macalester College. With this degree, plans include combining my two greatest passions, sports and math, into my future job.\n\n\nMacalester College | St. Paul MN\nB.A. in Statistics | Sept 2020 - May 2024\n\n\n\nFellow, Baseball Research | Minnesota Twins\nMay 2023 - August 2023\nResume"
+    "text": "Recent graduate of Macalester College with a Statistics degree and four years of varsity football experience. Future plans include combining my two greatest passions, sports and math, into my future job."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects and Coursework",
+    "title": "Will Brazgel",
     "section": "",
-    "text": "Check back soon!\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\nUntitled\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nUS College Cost-Benefit Analysis\n\n\n\nMachine Learning\n\n\nPresentation\n\n\n\nAn analysis of colleges based on tuition, admission rate, and post-graduation earnings using least squares and logistic regression, LASSO, splines, decision trees…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Pass Completion\n\n\n\nFootball\n\n\nPaper\n\n\n\nAn analysis of pass completion likelihood in the NFL using Mixed Effects Modeling.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMLB Team Builder App\n\n\n\nBaseball\n\n\nShiny\n\n\n\nAn R/Shiny app created to investigate which baseball statistics are predictive of team success and how the importance of certain statistics change based on position.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMLB Pitcher Career Length\n\n\n\nBaseball\n\n\nPaper\n\n\n\nAn investigation of the career length of Major League pitchers using survival analysis techniques in R.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Will Brazgel",
+    "section": "Education",
+    "text": "Education\nMacalester College | St. Paul MN\nB.A. in Statistics | Sept 2020 - December 2023\nSumma Cum Laude | 3.94 GPA"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Will Brazgel",
+    "section": "Experience",
+    "text": "Experience\nFellow, Baseball Research | Minnesota Twins\nMay 2023 - August 2023"
+  },
+  {
+    "objectID": "index.html#will-brazgel",
+    "href": "index.html#will-brazgel",
+    "title": "Will Brazgel",
+    "section": "",
+    "text": "Currently studying to obtain a Statistics degree while playing varsity football at Macalester College. With this degree, plans include combining my two greatest passions, sports and math, into my future job.\nResume"
+  },
+  {
+    "objectID": "index.html#professional-summary",
+    "href": "index.html#professional-summary",
+    "title": "Will Brazgel",
+    "section": "",
+    "text": "Recent graduate of Macalester College with a Statistics degree and four years of varsity football experience. Future plans include combining my two greatest passions, sports and math, into my future job."
+  },
+  {
+    "objectID": "index.html#summary",
+    "href": "index.html#summary",
+    "title": "Will Brazgel",
+    "section": "",
+    "text": "Recent graduate of Macalester College with a Statistics degree and four years of varsity football experience. Future plans include combining my two greatest passions, sports and math, into my future job."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Will Brazgel",
+    "section": "Skills",
+    "text": "Skills\nStatistical Analysis and Modeling\nData Cleaning and Manipulation\nMachine Learning\nicon: r-circle RStudio\nSQL"
+  },
+  {
+    "objectID": "projects/capstone/index.html",
+    "href": "projects/capstone/index.html",
+    "title": "MLB Pitcher Career Length",
+    "section": "",
+    "text": "Survival analysis is a branch of statistics practiced in medical fields, engineering, and economics. Though less common, survival analysis can also be utilized in sports through the investigation of career length. Regardless of the sport, coaches and front offices want to know how long a player will be a successful professional before they draft, sign, or trade for them. Some sports, such as baseball, have implemented statistics into decision-making more than others.\nIn this study, we wanted to investigate and predict the career length of Major League pitchers. Specifically, we looked to explore relationships between velocity, spin rates, handedness, pitch usage, and draft status in order to discover what impacts career length. To quantify career length, measured in total innings pitched in the Major Leagues, our initiating event was defined as the date of a pitcher’s MLB debut and the terminating event was defined as the end of their Major League career.\nCheck out my in-depth analysis here!"
+  },
+  {
+    "objectID": "projects/capstone/index.html#summary",
+    "href": "projects/capstone/index.html#summary",
+    "title": "MLB Pitcher Career Length",
+    "section": "",
+    "text": "Survival analysis is a branch of statistics practiced in medical fields, engineering, and economics. Though less common, survival analysis can also be utilized in sports through the investigation of career length. Regardless of the sport, coaches and front offices want to know how long a player will be a successful professional before they draft, sign, or trade for them. Some sports, such as baseball, have implemented statistics into decision-making more than others.\nIn this study, we wanted to investigate and predict the career length of Major League pitchers. Specifically, we looked to explore relationships between velocity, spin rates, handedness, pitch usage, and draft status in order to discover what impacts career length. To quantify career length, measured in total innings pitched in the Major Leagues, our initiating event was defined as the date of a pitcher’s MLB debut and the terminating event was defined as the end of their Major League career."
+  },
+  {
+    "objectID": "projects/capstone/index.html#product",
+    "href": "projects/capstone/index.html#product",
+    "title": "MLB Pitcher Career Length",
+    "section": "Product",
+    "text": "Product\nCheck out my in-depth analysis here!"
+  },
+  {
+    "objectID": "projects/correlated/index.html#product",
+    "href": "projects/correlated/index.html#product",
+    "title": "Predicting Pass Completion",
+    "section": "Product",
+    "text": "Product"
+  },
+  {
+    "objectID": "projects/shiny/index.html",
+    "href": "projects/shiny/index.html",
+    "title": "MLB Team Builder App",
+    "section": "",
+    "text": "Learn about new baseball statistics, explore relationships between certain statistics and team success, and construct your own teams with the MLB Team Builder App.\nThis investigation sought to answer four main questions.\n\nWhich baseball statistics are important in predicting overall team success? We measure team success as the sum of each player’s WAR or WPA.\nSimilarly, which baseball statistics contribute to fantasy team success, measured in Total Fantasy Points?\nBased on findings from the first two research questions, does there seem to be similar importance of a statistic regardless of if we are interested in real life or fantasy baseball?\nLastly, how does variable importance (in regards to predicting and accumulating WAR) change based on position?\n\nCheck out the full app here!"
+  },
+  {
+    "objectID": "projects/correlated/index.html",
+    "href": "projects/correlated/index.html",
+    "title": "Predicting Pass Completion",
+    "section": "",
+    "text": "This research is predicated on determining the odds that a pass is completed in the NFL, based on data from the 2022 season.\nThere are a multitude of variables within the game of football that have an impact on whether a pass is completed, many of which we attempt to capture in our modeling. However, we cannot account for the baseline talent and decision making ability of each individual quarterback in our dataset by simply using a logistic regression model. In the same way, the talent of the surrounding teammates, especially the lineman and wide receivers, understandably has an impact on the odds of completion.\nWith a logistic model, the assumption would be that because we are observing the highest level of football, each quarterback and his teammates must be equally talented to play professionally, and therefore the odds of completing a pass are solely based on the football-specific contexts we include as predictor variables. We believe this is an over-generalization. In fact, the baseline talent and decision making ability of each individual quarterback can and should be thought of as correlated with the odds of completing a pass.\nBecause of this, as well as the fact that our data contains repeated measurement of the same quarterback (passes thrown throughout a season), the following investigation is from a “Correlated Data” framework and utilizes Longitudinal Data techniques.\nCheck out the full analysis here!"
+  },
+  {
+    "objectID": "projects/correlated/index.html#overview",
+    "href": "projects/correlated/index.html#overview",
+    "title": "Predicting Pass Completion",
+    "section": "",
+    "text": "This research is predicated on determining the odds that a pass is completed in the NFL, based on data from the 2022 season.\nThere are a multitude of variables within the game of football that have an impact on whether a pass is completed, many of which we attempt to capture in our modeling. However, we cannot account for the baseline talent and decision making ability of each individual quarterback in our dataset by simply using a logistic regression model. In the same way, the talent of the surrounding teammates, especially the lineman and wide receivers, understandably has an impact on the odds of completion.\nWith a logistic model, the assumption would be that because we are observing the highest level of football, each quarterback and his teammates must be equally talented to play professionally, and therefore the odds of completing a pass are solely based on the football-specific contexts we include as predictor variables. We believe this is an over-generalization. In fact, the baseline talent and decision making ability of each individual quarterback can and should be thought of as correlated with the odds of completing a pass.\nBecause of this, as well as the fact that our data contains repeated measurement of the same quarterback (passes thrown throughout a season), the following investigation is from a “Correlated Data” framework and utilizes Longitudinal Data techniques.\nCheck out the full analysis here!"
+  },
+  {
+    "objectID": "projects/capstone/index.html#overview",
+    "href": "projects/capstone/index.html#overview",
+    "title": "MLB Pitcher Career Length",
+    "section": "",
+    "text": "Survival analysis is a branch of statistics practiced in medical fields, engineering, and economics. Though less common, survival analysis can also be utilized in sports through the investigation of career length. Regardless of the sport, coaches and front offices want to know how long a player will be a successful professional before they draft, sign, or trade for them. Some sports, such as baseball, have implemented statistics into decision-making more than others.\nIn this study, we wanted to investigate and predict the career length of Major League pitchers. Specifically, we looked to explore relationships between velocity, spin rates, handedness, pitch usage, and draft status in order to discover what impacts career length. To quantify career length, measured in total innings pitched in the Major Leagues, our initiating event was defined as the date of a pitcher’s MLB debut and the terminating event was defined as the end of their Major League career.\nCheck out my in-depth analysis here!"
+  },
+  {
+    "objectID": "projects/shiny/index.html#overview",
+    "href": "projects/shiny/index.html#overview",
+    "title": "MLB Team Builder App",
+    "section": "",
+    "text": "Learn about new baseball statistics, explore relationships between certain statistics and team success, and construct your own teams with the MLB Team Builder App.\nThis investigation sought to answer four main questions.\n\nWhich baseball statistics are important in predicting overall team success? We measure team success as the sum of each player’s WAR or WPA.\nSimilarly, which baseball statistics contribute to fantasy team success, measured in Total Fantasy Points?\nBased on findings from the first two research questions, does there seem to be similar importance of a statistic regardless of if we are interested in real life or fantasy baseball?\nLastly, how does variable importance (in regards to predicting and accumulating WAR) change based on position?\n\nCheck out the full app here!"
+  },
+  {
+    "objectID": "projects/genetics/index.html",
+    "href": "projects/genetics/index.html",
+    "title": "Statistical Genetics Exploration",
+    "section": "",
+    "text": "Check out our website here!"
+  },
+  {
+    "objectID": "projects/genetics/index.html#overview",
+    "href": "projects/genetics/index.html#overview",
+    "title": "Statistical Genetics Exploration",
+    "section": "",
+    "text": "Check out our website here!"
+  },
+  {
+    "objectID": "projects/college/index.html",
+    "href": "projects/college/index.html",
+    "title": "US College Cost-Benefit Analysis",
+    "section": "",
+    "text": "This project was a summation of everything I learned in my college Statistical Machine Learning class. With the help of Logan Pampel, we compiled our work into a final presentation, which is attached below.\nCheck out our presentation here!"
+  },
+  {
+    "objectID": "projects/college/index.html#overview",
+    "href": "projects/college/index.html#overview",
+    "title": "US College Cost-Benefit Analysis",
+    "section": "",
+    "text": "This project was a summation of everything I learned in my college Statistical Machine Learning class. With the help of Logan Pampel, we compiled our work into a final presentation, which is attached below.\nCheck out our presentation here!"
   }
 ]

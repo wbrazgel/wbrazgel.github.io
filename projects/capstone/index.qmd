@@ -1,3 +1,19 @@
 ---
-title: "Untitled"
+title: "MLB Pitcher Career Length"
+description: "An investigation of the career length of Major League pitchers using survival analysis techniques in R."
+image: capstone.png
+categories:
+  - Baseball
+  - Paper
+about:
+  template: solana
+  image: capstone.png
 ---
+
+## Overview
+
+Survival analysis is a branch of statistics practiced in medical fields, engineering, and economics. Though less common, survival analysis can also be utilized in sports through the investigation of career length. Regardless of the sport, coaches and front offices want to know how long a player will be a successful professional before they draft, sign, or trade for them. Some sports, such as baseball, have implemented statistics into decision-making more than others.
+
+In this study, we wanted to investigate and predict the career length of Major League pitchers. Specifically, we looked to explore relationships between velocity, spin rates, handedness, pitch usage, and draft status in order to discover what impacts career length. To quantify career length, measured in total innings pitched in the Major Leagues, our initiating event was defined as the date of a pitcher’s MLB debut and the terminating event was defined as the end of their Major League career. 
+
+[Check out my in-depth analysis here!](paper.pdf)

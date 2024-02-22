@@ -1,0 +1,23 @@
+---
+title: "Predicting Pass Completion"
+description: "An analysis of pass completion likelihood in the NFL using Mixed Effects Modeling."
+image: correlated.png
+categories:
+  - Football
+  - Paper
+about:
+  template: solana
+  image: correlated.png
+---
+
+## Overview
+
+This research is predicated on determining the odds that a pass is completed in the NFL, based on data from the 2022 season.
+
+There are a multitude of variables within the game of football that have an impact on whether a pass is completed, many of which we attempt to capture in our modeling. However, we cannot account for the baseline talent and decision making ability of each individual quarterback in our dataset by simply using a logistic regression model. In the same way, the talent of the surrounding teammates, especially the lineman and wide receivers, understandably has an impact on the odds of completion.
+
+With a logistic model, the assumption would be that because we are observing the highest level of football, each quarterback and his teammates must be equally talented to play professionally, and therefore the odds of completing a pass are solely based on the football-specific contexts we include as predictor variables. We believe this is an over-generalization. In fact, the baseline talent and decision making ability of each individual quarterback can and should be thought of as correlated with the odds of completing a pass.
+
+Because of this, as well as the fact that our data contains repeated measurement of the same quarterback (passes thrown throughout a season), the following investigation is from a “Correlated Data” framework and utilizes Longitudinal Data techniques.
+
+[Check out the full analysis here!](fbpaper.pdf)
