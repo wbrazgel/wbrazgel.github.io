@@ -2,10 +2,10 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/college/index.html",
-      "/projects/correlated/index.html",
+      "/projects/capstone/index.html",
       "/projects/shiny/index.html",
-      "/projects/capstone/index.html"
+      "/projects/correlated/index.html",
+      "/projects/college/index.html"
     ]
   }
 ]
