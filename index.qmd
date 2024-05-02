@@ -12,25 +12,24 @@ about:
       href: mailto:wbrazgel@gmail.com
     - icon: file-earmark-text
       text: Resume
-      href: Brazgel24Resume.pdf
+      href: ResumeWillBrazgel.pdf
   image: images/capstonepic.jpg
 ---
 
 ## Summary
 
-Recent graduate of Macalester College with a Statistics degree and four years of varsity football experience. Future plans include combining my two greatest passions, sports and math, into my future job.
+Graduate of Macalester College with a Statistics degree and four years of varsity football experience. Currently searching for an opportunity that combines my passions for sports, statistics, and data analysis. 
 
 ## Education
 
-Macalester College | St. Paul MN
+Macalester College \| St. Paul MN
 
-B.A. in Statistics | Sept 2020 - December 2023
+B.A. in Statistics \| Sept 2020 - December 2023
 
-Summa Cum Laude | 3.94 GPA
+Summa Cum Laude \| 3.94 GPA
 
 ## Experience
 
-Fellow, Baseball Research | Minnesota Twins
+Fellow, Baseball Research \| Minnesota Twins
 
 May 2023 - August 2023
-
